@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RUL Prediction System</title>
+</head>
+<body>
+    <h1>Enter Engine Data to make predictions</h1>
+    <form action="/predict" method="POST">
+        
+        <h3>Basic Information</h3>
+        <label>Unit ID:</label>
+        <input type="number" name="unit" step="1" required><br>
+        
+        <label>Time (cycles):</label>
+        <input type="number" name="time" step="1" required><br>
+        
+        <h3>Operational Settings</h3>
+        <label>Setting 1:</label>
+        <input type="number" name="op_setting_1" step="0.01" required><br>
+        
+        <label>Setting 2:</label>
+        <input type="number" name="op_setting_2" step="0.01" required><br>
+        
+        <h3>Sensor Measurements</h3>
+        <label>Sensor 2:</label>
+        <input type="number" name="sensor_2" step="0.01" required><br>
+        <label>Sensor 3:</label>
+        <input type="number" name="sensor_3" step="0.01" required><br>
+        <label>Sensor 4:</label>
+        <input type="number" name="sensor_4" step="0.01" required><br>
+        <label>Sensor 7:</label>
+        <input type="number" name="sensor_7" step="0.01" required><br>
+        <label>Sensor 8:</label>
+        <input type="number" name="sensor_8" step="0.01" required><br>
+        <label>Sensor 9:</label>
+        <input type="number" name="sensor_9" step="0.01" required><br>
+        <label>Sensor 11:</label>
+        <input type="number" name="sensor_11" step="0.01" required><br>
+        <label>Sensor 12:</label>
+        <input type="number" name="sensor_12" step="0.01" required><br>
+        <label>Sensor 13:</label>
+        <input type="number" name="sensor_13" step="0.01" required><br>
+        <label>Sensor 14:</label>
+        <input type="number" name="sensor_14" step="0.01" required><br>
+        <label>Sensor 15:</label>
+        <input type="number" name="sensor_15" step="0.01" required><br>
+        <label>Sensor 17:</label>
+        <input type="number" name="sensor_17" step="0.01" required><br>
+        <label>Sensor 20:</label>
+        <input type="number" name="sensor_20" step="0.01" required><br>
+        <label>Sensor 21:</label>
+        <input type="number" name="sensor_21" step="0.01" required><br>
+        
+        <button type="submit">Predict RUL</button>
+    </form>
+</body>
+</html>
+
+

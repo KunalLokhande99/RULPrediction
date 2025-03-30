@@ -95,9 +95,9 @@ class CustomData:
             }
             
             print("\n" + "="*50)
-            print("Training Pipeline Completed Successfully!")
+            print("Prediction Pipeline Completed Successfully!")
             print("="*50 + "\n")
-            logging.info("Training pipeline completed successfully")
+            logging.info("Prediction pipeline completed successfully")
             
             return pd.DataFrame(custom_data_dict)
         

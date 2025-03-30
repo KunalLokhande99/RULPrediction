@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RUL Prediction Results</title>
+</head>
+<body>
+    <h1>Here is your RUL prediction information</h1>
+    
+    <div>
+        <h3>Engine Unit: {{ unit }}</h3>
+        <p>Current Time Cycles: {{ time }}</p>
+        <h2>Predicted RUL: {{ rul }} cycles</h2>
+    </div>
+    
+    <a href="/predict"><button>Make Another Prediction</button></a>
+    <a href="/"><button>Return Home</button></a>
+</body>
+</html>
