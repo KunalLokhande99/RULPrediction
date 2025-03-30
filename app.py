@@ -45,3 +45,6 @@ def predict():
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5001, debug=True)
 
+
+# use this command to run and see results page
+# python app.py & start http://localhost:5001
