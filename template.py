@@ -10,7 +10,7 @@ while True:
 
 # List of file paths to be created
 list_of_files = [
-    "github/workflow/.gitkeep",
+    ".github/workflow/.gitkeep",
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/components/data_ingestion.py",
