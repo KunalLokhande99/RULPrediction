@@ -70,13 +70,17 @@ cycle-level accuracy. These models process normalized telemetry data to generate
 </p>
 
 <h4 align="center"> Perfomance Matrix </h4>
+
 ![Performance_Matrix](https://github.com/user-attachments/assets/6658dab3-5939-4b50-b9b7-6f0926d0d2ee)
 
 <h4 align="center"> Process Flow Diagram </h4>
+
 ![work_flow_Arc](https://github.com/user-attachments/assets/27f36e46-ea64-44f9-a876-b214271037c8)
 
 
+
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
 
 
 <!-- MODEL DEPLOYMENT -->
@@ -88,11 +92,13 @@ and maintenance alerts. All components (preprocessing logic, ML model, User Inte
 </p>
 
 <h4 align="center"> User I/O flow Diagram </h4>
+
 ![user_flow_Arc](https://github.com/user-attachments/assets/da5586c4-9b96-4e39-8861-9d3141199be3)
 
-
 <h4 align="center"> User Interface web app Homepage </h4>
+
 ![Wireframe_Homepage](https://github.com/user-attachments/assets/df290497-5dc8-4e53-bc3f-ce32373daeed)
+
 
 
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
