@@ -59,3 +59,42 @@
 
 
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+
+<!-- RUL PREDICTION -->
+<h2> :computer: RUL Prediction</h2>
+
+<p align="justify"> 
+    The project leverages machine learning models (Random Forest, Support Vector Machine, Gradient Boosting, XGBoost, etc) to analyze sensor degradation trends and predict RUL with 
+cycle-level accuracy. These models process normalized telemetry data to generate maintenance alerts when RUL drops below operational thresholds, enabling proactive engine servicing. 
+</p>
+
+**RUL Prediction Perfomance Matrix**
+![Performance_Matrix](https://github.com/user-attachments/assets/b7929d1f-0274-4228-8bc5-f74a9ce28842)
+
+**RUL Prediction Process Flow Diagram**
+![work_flow_Arc](https://github.com/user-attachments/assets/57785468-92b8-4d95-b61c-6972314511d4)
+
+
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+
+<!-- MODEL DEPLOYMENT -->
+<h2> :baggage_claim: Model Deployment</h2>
+
+<p align="justify"> 
+    The system is deployed as a local Flask web application running on `localhost:5001`, with a browser-based interface for real-time RUL predictions 
+and maintenance alerts. All components (preprocessing logic, ML model, User Interface) are bundled into a single executable for easy offline use.   
+</p>
+
+**User I/O flow Diagram**
+![user_flow_Arc](https://github.com/user-attachments/assets/e99983ae-09ec-4865-aed6-a7d8aadd4035)
+
+**User Interface web app Homepage**
+![Wireframe_Homepage](https://github.com/user-attachments/assets/0187f199-8ab6-4076-8e22-1b4898344ad2)
+
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+
