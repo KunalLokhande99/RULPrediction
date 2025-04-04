@@ -21,11 +21,9 @@
 
 <!-- PROJECT DOCUMENTATION -->
 <h2> :bookmark: Project Documentation</h2>
-Please refer the below project documents for better understanding
--
 
 <ul>
-     <li><a href="https://github.com/KunalLokhande99/RULPrediction/blob/master/documents/01_Project_Architecture.pdf" target="_blank">Project Architecture</a></li>
+    <li><a href="https://github.com/KunalLokhande99/RULPrediction/blob/master/documents/01_Project_Architecture.pdf" target="_blank">Project Architecture</a></li>
     <li><a href="https://github.com/KunalLokhande99/RULPrediction/blob/master/documents/02_High_Level_Design_(HLD).pdf" target="_blank">High Level Design (HLD)</a></li>
     <li><a href="https://github.com/KunalLokhande99/RULPrediction/blob/master/documents/03_Low_Level_Design_(LLD).pdf" target="_blank">Low Level Design (LLD)</a></li>
     <li><a href="https://github.com/KunalLokhande99/RULPrediction/blob/master/documents/04_Project_Wireframe.pdf" target="_blank">Project Wireframe</a></li>
@@ -36,3 +34,28 @@ Please refer the below project documents for better understanding
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
 
 
+<!-- TECHNICAL SPECIFICATIONS -->
+<h2> :hammer: Technical Specification</h2>
+
+![TechnologyStackTable](https://github.com/user-attachments/assets/616fe3dd-d8a8-42b6-969c-c21c21f510f9)
+
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+
+<!-- DATASET DESCRIPTION -->
+<h2> :floppy_disk: Dataset Description</h2>
+
+**1. Source**: NASA C-MAPSS (Commercial Modular Aero-Propulsion System Simulation) benchmark dataset.
+    <ul>https://www.kaggle.com/datasets/behrad3d/nasa-cmaps</ul>
+**2. Content**: Multivariate time-series data from turbofan jet engines, tracking 21 sensor readings (temperature, pressure, RPM) and 3 operational settings.  
+**3. Scope**: Simulated run-to-failure cycles (20,631 records) under varying conditions (sea level, altitude, fault modes).  
+**4. Preprocessing**: Normalized using Robust Scaling (median/IQR) to handle sensor outliers and noise.  
+**5. Key Sensors**: Focus on critical degradation indicators (e.g., Sensor 7: exhaust temperature, Sensor 12: fuel flow).  
+**6. Data Splits**:  
+   - Training Data: 100 engines with full run-to-failure cycles (21 sensors × 20,631 cycles)  
+   - Testing Data: 100 engines with partial cycles + final RUL values for validation  
+   - RUL Labels: Provided separately for each engine in testing set 
+
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
