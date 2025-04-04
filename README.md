@@ -3,4 +3,4 @@
 
 <h1 align="center"> Turbofan Jet Engine RUL Prediction 
 
-
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
