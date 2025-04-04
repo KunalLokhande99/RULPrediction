@@ -142,5 +142,19 @@ and maintenance alerts. All components (preprocessing logic, ML model, User Inte
 
 
 
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+
+
+<!-- CREDITS -->
+<h2> :scroll: Credits</h2>
+
+Kunal Lokhande
+
+- [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KunalLokhande99/)
+
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunallokhandea99/)
+
+
 
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
