@@ -115,3 +115,32 @@ and maintenance alerts. All components (preprocessing logic, ML model, User Inte
 
 
 
+<!-- PROJECT SETUP -->
+<h2> :computer: Project Setup </h2>
+
+1. Clone the repository
+    <ul> https://github.com/KunalLokhande99/RULPrediction.git </ul>
+2. Setup vscode to open project folder
+3. Select base environment (default)
+4. Select GitBash terminal
+5. Setup Git and Github
+6. Create virtual environment
+   <pre><code>$ bash init_setup.sh </code></pre>
+7. Create project structrue
+   <pre><code>$ python template.py </code></pre>
+8. Create project setup
+   <pre><code>$ python setup.py </code></pre>
+9. If venv not activated then only
+    <pre><code>$ source activate ./venv </code></pre>
+10. Check every module and file should be running
+11. Run the RUL Prediction Model
+    <pre><code>$ python app.py </code></pre>
+12. If not running then try with realative path or absoute path
+13. Open web browser and enter url http://localhost:5001/
+14. Enter the engine details
+15. click on predict results for RUL
+
+
+
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
