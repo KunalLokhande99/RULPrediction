@@ -21,7 +21,8 @@
 
 <!-- PROJECT DOCUMENTATION -->
 <h2> :bookmark: Project Documentation</h2>
-Please refer the below project documents for better understanding.
+Please refer the below project documents for better understanding
+-
 
 <ul>
      <li><a href="https://github.com/KunalLokhande99/RULPrediction/blob/master/documents/01_Project_Architecture.pdf" target="_blank">Project Architecture</a></li>
