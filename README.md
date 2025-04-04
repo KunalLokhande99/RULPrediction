@@ -69,10 +69,10 @@
 cycle-level accuracy. These models process normalized telemetry data to generate maintenance alerts when RUL drops below operational thresholds, enabling proactive engine servicing. 
 </p>
 
-**RUL Prediction Perfomance Matrix**
+<h4 align="center"> Perfomance Matrix </h4>
 ![Performance_Matrix](https://github.com/user-attachments/assets/b7929d1f-0274-4228-8bc5-f74a9ce28842)
 
-**RUL Prediction Process Flow Diagram**
+<h4 align="center"> Process Flow Diagram </h4>
 ![work_flow_Arc](https://github.com/user-attachments/assets/57785468-92b8-4d95-b61c-6972314511d4)
 
 
@@ -88,10 +88,10 @@ cycle-level accuracy. These models process normalized telemetry data to generate
 and maintenance alerts. All components (preprocessing logic, ML model, User Interface) are bundled into a single executable for easy offline use.   
 </p>
 
-**User I/O flow Diagram**
+<h4 align="center"> User I/O flow Diagram </h4>
 ![user_flow_Arc](https://github.com/user-attachments/assets/e99983ae-09ec-4865-aed6-a7d8aadd4035)
 
-**User Interface web app Homepage**
+<h4 align="center"> User Interface web app Homepage </h4>
 ![Wireframe_Homepage](https://github.com/user-attachments/assets/0187f199-8ab6-4076-8e22-1b4898344ad2)
 
 
