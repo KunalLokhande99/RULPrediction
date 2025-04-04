@@ -99,7 +99,8 @@ and maintenance alerts. All components (preprocessing logic, ML model, User Inte
 
 <h4> Web App Homepage </h4>
 
-![Wireframe_Homepage](https://github.com/user-attachments/assets/df290497-5dc8-4e53-bc3f-ce32373daeed)
+![Wireframe_Homepage](https://github.com/user-attachments/assets/a331c56c-bd1d-45ad-a61b-3a0971e0c84f)
+
 
 
 
