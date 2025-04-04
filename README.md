@@ -103,7 +103,10 @@ and maintenance alerts. All components (preprocessing logic, ML model, User Inte
 
 ![Wireframe_Homepage](https://github.com/user-attachments/assets/a331c56c-bd1d-45ad-a61b-3a0971e0c84f)
 
-![Wireframe_Result_Page](https://github.com/user-attachments/assets/c051eae6-87bd-4ece-9cf7-2610cbb34b97)
+<h4> Web App Result Page </h4>
+
+![Wireframe_Result_Page](https://github.com/user-attachments/assets/3394e3cd-6c81-4d8d-9fef-c04549192d94)
+
 
 
 
