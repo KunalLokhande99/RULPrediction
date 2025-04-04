@@ -61,6 +61,7 @@
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
 
 
+
 <!-- RUL PREDICTION -->
 <h2> :computer: RUL Prediction</h2>
 
@@ -83,6 +84,7 @@ cycle-level accuracy. These models process normalized telemetry data to generate
 
 
 
+
 <!-- MODEL DEPLOYMENT -->
 <h2> :baggage_claim: Model Deployment</h2>
 
@@ -91,16 +93,18 @@ cycle-level accuracy. These models process normalized telemetry data to generate
 and maintenance alerts. All components (preprocessing logic, ML model, User Interface) are bundled into a single executable for easy offline use.   
 </p>
 
-<h4> User I/O flow Diagram </h4>
+<h4> User I/O Flow Diagram </h4>
 
 ![user_flow_Arc](https://github.com/user-attachments/assets/da5586c4-9b96-4e39-8861-9d3141199be3)
 
-<h4> User Interface web app Homepage </h4>
+<h4> Web App Homepage </h4>
 
 ![Wireframe_Homepage](https://github.com/user-attachments/assets/df290497-5dc8-4e53-bc3f-ce32373daeed)
 
 
 
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+
 
 
