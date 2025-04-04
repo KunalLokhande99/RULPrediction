@@ -61,6 +61,7 @@
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
 
 
+
 <!-- RUL PREDICTION -->
 <h2> :computer: RUL Prediction</h2>
 
@@ -73,6 +74,7 @@ cycle-level accuracy. These models process normalized telemetry data to generate
 
 ![Performance_Matrix](https://github.com/user-attachments/assets/6658dab3-5939-4b50-b9b7-6f0926d0d2ee)
 
+<p></p> <!-- Empty line -->
 <h4> Process Flow Diagram </h4>
 
 ![work_flow_Arc](https://github.com/user-attachments/assets/27f36e46-ea64-44f9-a876-b214271037c8)
@@ -80,6 +82,7 @@ cycle-level accuracy. These models process normalized telemetry data to generate
 
 
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
 
 
 
@@ -91,16 +94,21 @@ cycle-level accuracy. These models process normalized telemetry data to generate
 and maintenance alerts. All components (preprocessing logic, ML model, User Interface) are bundled into a single executable for easy offline use.   
 </p>
 
-<h4> User I/O flow Diagram </h4>
+<h4> User I/O Flow Diagram </h4>
 
 ![user_flow_Arc](https://github.com/user-attachments/assets/da5586c4-9b96-4e39-8861-9d3141199be3)
 
-<h4> User Interface web app Homepage </h4>
+<p></p> <!-- Empty line -->
+<h4> Web App Homepage </h4>
 
-![Wireframe_Homepage](https://github.com/user-attachments/assets/df290497-5dc8-4e53-bc3f-ce32373daeed)
+![Wireframe_Homepage](https://github.com/user-attachments/assets/a331c56c-bd1d-45ad-a61b-3a0971e0c84f)
+
+![Wireframe_Result_Page](https://github.com/user-attachments/assets/c051eae6-87bd-4ece-9cf7-2610cbb34b97)
 
 
 
 ![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+
 
 
