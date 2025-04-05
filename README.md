@@ -103,7 +103,10 @@ and maintenance alerts. All components (preprocessing logic, ML model, User Inte
 
 ![Wireframe_Homepage](https://github.com/user-attachments/assets/a331c56c-bd1d-45ad-a61b-3a0971e0c84f)
 
-![Wireframe_Result_Page](https://github.com/user-attachments/assets/c051eae6-87bd-4ece-9cf7-2610cbb34b97)
+<h4> Web App Result Page </h4>
+
+![Wireframe_Result_Page](https://github.com/user-attachments/assets/3394e3cd-6c81-4d8d-9fef-c04549192d94)
+
 
 
 
@@ -112,3 +115,46 @@ and maintenance alerts. All components (preprocessing logic, ML model, User Inte
 
 
 
+<!-- PROJECT SETUP -->
+<h2> :computer: Project Setup </h2>
+
+1. Clone the repository
+    <ul> https://github.com/KunalLokhande99/RULPrediction.git </ul>
+2. Setup vscode to open project folder
+3. Select base environment (default)
+4. Select GitBash terminal
+5. Setup Git and Github
+6. Create virtual environment
+   <pre><code>$ bash init_setup.sh </code></pre>
+7. Create project structrue
+   <pre><code>$ python template.py </code></pre>
+8. Create project setup
+   <pre><code>$ python setup.py </code></pre>
+9. If venv not activated then only
+    <pre><code>$ source activate ./venv </code></pre>
+10. Check every module and file should be running
+11. Run the RUL Prediction Model
+    <pre><code>$ python app.py </code></pre>
+12. If not running then try with realative path or absoute path
+13. Open web browser and enter url http://localhost:5001/
+14. Enter the engine details
+15. click on predict results for RUL
+
+
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
+
+
+
+<!-- CREDITS -->
+<h2> :scroll: Credits</h2>
+
+Kunal Lokhande
+
+- [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KunalLokhande99/)
+
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunallokhandea99/)
+
+
+
+![rgb](https://github.com/user-attachments/assets/2f475ebb-3f56-4393-b921-9d70ff425996)
